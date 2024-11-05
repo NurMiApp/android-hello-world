@@ -1,4 +1,6 @@
-public class Post {
+package com.rosie.app
+
+public class MainActivity {
           public String uid;
           public String author;
           public String body;
